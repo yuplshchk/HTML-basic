@@ -1,7 +1,7 @@
 #   HTML-Basics
 
 ![alt text](https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq)
-## 1. How CSS works
+## 1. How HTML works
 
 + [What is HTML](https://www.hostinger.ru/rukovodstva/shto-takoje-html/)
 ## 2. Selectors
