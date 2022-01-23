@@ -1,5 +1,4 @@
 #   HTML-Basics
-
 ![alt text](https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/source.gif)
 ## 1. How HTML works
 
